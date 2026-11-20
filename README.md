@@ -1,5 +1,4 @@
 # UNP_VAC_PROJECT_AURA_THERAPEUTICS_-PHAARMACEUTICAL_DISTRIBUTION_ANALYTICS_USING_MS._EXCEL
-About Me – G. Tanay
 
 I am MANAS PRADHAN B.COM (computer Application) student from B.Com Application, Section 2A1 I have collaborated with UNP Education on a practical, data-driven business analytics project that helped me develop my knowledge of Microsoft Excel, data analysis, statistical techniques and business decision-making.
 
